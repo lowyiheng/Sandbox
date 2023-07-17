@@ -1,1 +1,1 @@
-print("kui")
+print("kui ")
